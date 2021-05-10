@@ -2,9 +2,6 @@ const clock=document.querySelector('.time');
 const tick=(()=>{
     let now=new Date();
     let h=now.getHours();
-    if(h>12){
-        h=h-12;
-    }
     let m=now.getMinutes();
     let s=now.getSeconds();
     let dat= now.toDateString();

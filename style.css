@@ -10,3 +10,6 @@ body{
 .content{
     color: white;
 }
+.date{
+    font-size: 2rem;
+}
