@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.time{
+    color: white;
+    font-size: 5rem;
+    margin: 20% auto;
+    text-align: center;
+}
+.content{
+    color: white;
+}
